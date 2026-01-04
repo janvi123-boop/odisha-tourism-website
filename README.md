@@ -1,24 +1,24 @@
 # Odisha Tourism Website
 
-A beginner-level static website created using **HTML and CSS** to showcase the culture, heritage, and tourist places of Odisha.
+A beginner-level static website created using HTML and CSS to showcase the culture, heritage, and tourist places of Odisha.
 
-## 🔧 Technologies Used
+#🔧 Technologies Used
 - HTML5
 - CSS3
 
-## 📂 Features
+# 📂 Features
 - Multiple pages (Home, Places, Culture, Contact)
 - Image-based sections for tourist attractions
 - Simple and clean layout
 - Footer with contact details
 
-## 🚀 Deployment
+# 🚀 Deployment
 This project is hosted on GitHub and deployed using Netlify.
 
-## 🎯 Purpose
+# 🎯 Purpose
 This website was built as part of an induction task to demonstrate basic frontend skills and understanding of Git & GitHub.
 
-## 📌 Note
+#📌 Note
 This is a beginner project and will be improved further as I continue learning web development.
 
 
