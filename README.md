@@ -2,7 +2,7 @@
 
 A beginner-level static website created using HTML and CSS to showcase the culture, heritage, and tourist places of Odisha.
 
-#🔧 Technologies Used
+# 🔧 Technologies Used
 - HTML5
 - CSS3
 
