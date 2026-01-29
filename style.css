@@ -63,8 +63,17 @@ footer {
   color:#1b5e20;
   text-decoration:none;
   border-radius:5px;
-  font-weight:bold
+  font-weight:bold;
+  cursor:pointer;
+  transition:0.3s;
 }
+.btn:hover{
+  background-color:#45a049;
+  transform:scale(1.1);
+  box-shadow:0 4px 8px rgba(0,0,0,0.2);
+
+}
+
 .design{
   transform: rotateX('45deg');
 }
